@@ -1,4 +1,4 @@
-# InstaLooter_Auto
+# InstaLooter_Auto - A instagram image crawler helper script based on InstaLooter
 Python script for instaLooter.py. Auto crawl instagram profiles and hashtags.
 
 
