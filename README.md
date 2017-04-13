@@ -14,7 +14,7 @@ Python script for instaLooter.py. Auto crawl instagram profiles and hashtags.
 <ul>
 <li>Open terminal (CMD in Windows)</li>
 <li>Go to the directory where you downloaded this script</li>
-<li>Open list.txt. Add profile names as: profile_name. Add hashtags as: #hashtag_name. One name per line</li>
+<li>Open list.txt. The first line is your instagram username, the second the line is your instagram password. Start typing names/hashtags you want at the 3rd line. Add profile names as: profile_name. Add hashtags as: #hashtag_name. One name per line</li>
 <li>Run: python instacrawler.py</li>
 </ul>
 
