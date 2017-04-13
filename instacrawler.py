@@ -1,3 +1,9 @@
+
+#          Author: Ziyao Wang
+#           copyright 2017
+#   Questions contact tonywangziyao@gmail.com
+
+
 import os
 
 # starting folder name. auto starts with 0
@@ -7,7 +13,7 @@ instaUsername = ""
 instaPassword = ""
 
 def run():
-    global counter,instaUsername,instaPassword
+    global counter,instaUsername,instaPassword,num_craw
     f = open("list.txt")
     name = f.readline().rstrip('\n')
     while name != "":
