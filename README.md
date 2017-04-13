@@ -7,7 +7,7 @@ Python script for instaLooter.py. Auto crawl instagram profiles and hashtags.
 <a>https://www.python.org/downloads/</a>
 <br/>
 <h4>InstaLooter installed</h4>
-<a>https://github.com/althonos/InstaLooter/</a>
+<a>https://github.com/althonos/InstaLooter/</a><br/>
 <a>http://instalooter.readthedocs.io/en/latest/install.html</a>
 
 <h2>How to</h2>
