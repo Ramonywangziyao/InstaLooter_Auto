@@ -38,12 +38,12 @@ def run():
         #hashtag
         if name[0] == "#":
             name = name[1:]
-            para = name+" ./"+dirNum+" -n "+num_craw+" -c "+instaUsername+":"+instaPassword
-            systemCommand = "python -m instaLooter hashtag "
+            para = name+" ./"+dirNum+" -n "+num_craw
+            systemCommand = "instaLooter hashtag "
         #profile
         else:
             para = name+" ./"+dirNum+" -n "+num_craw
-            systemCommand = "python -m instaLooter "
+            systemCommand = "instaLooter user"
 
         os.system(systemCommand+para)
         counter+=1
