@@ -1,7 +1,7 @@
 
-#          Author: Ziyao Wang
+#          Author: 
 #           copyright 2017
-#   Questions contact tonywangziyao@gmail.com
+#   Questions contact 
 
 
 import os
